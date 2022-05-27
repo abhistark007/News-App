@@ -1,7 +1,7 @@
 # news_app
 
 working video demo link:
-
+https://youtube.com/shorts/2viUTzZ8JiY?feature=share
 
 ![image](https://user-images.githubusercontent.com/58290134/170716509-1e2f8735-ad7a-482d-9660-8c8c2152b23c.png)
 
