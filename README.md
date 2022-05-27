@@ -1,5 +1,18 @@
 # news_app
 
+working video demo link:
+
+
+![image](https://user-images.githubusercontent.com/58290134/170716509-1e2f8735-ad7a-482d-9660-8c8c2152b23c.png)
+
+
+![image](https://user-images.githubusercontent.com/58290134/170716557-c282733c-3412-4bcc-9b2d-4d11d3ce3ad1.png)
+
+
+![image](https://user-images.githubusercontent.com/58290134/170716641-07231589-c4f5-4b0b-9a12-9926c25f37b3.png)
+
+
+
 A new Flutter project.
 
 ## Getting Started
